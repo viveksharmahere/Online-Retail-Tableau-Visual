@@ -13,6 +13,10 @@ The Sales Analysis Dashboard is designed to help you understand and analyze vari
    - **Description**: Displays the total revenue generated each month for the year 2011. This helps in understanding the monthly revenue trends and identifying peak sales periods.
    - **Fields Used**: `Invoice Date`, `Revenue` (calculated as `[Quantity] * [Unit Price]`)
 
+
+![Monthly Revenue 2011](https://github.com/user-attachments/assets/3a90d602-fd60-4d40-aceb-c8b400a41e41)
+
+
 2. **Top 10 Countries by Revenue (excluding UK)**:
    - **Type**: Side-by-Side Bar Chart
    - **Description**: Shows the top 10 countries by total revenue and quantity sold, excluding the United Kingdom. This highlights the most profitable international markets and the volume of products sold in those regions.
