@@ -2,7 +2,8 @@
 
 This Tableau project visualizes key sales metrics to provide comprehensive insights into revenue trends, top-performing countries and customers, and geographic sales distribution.
 
-![Dashboard](https://github.com/user-attachments/assets/a54defeb-6642-40f2-8040-62c36ef378b4)
+![Dashboard](https://github.com/user-attachments/assets/cca54f4f-bf75-411c-9ad4-0d865e60d1cd)
+
 
 
 ## Dashboard Overview
@@ -19,7 +20,7 @@ The Sales Analysis Dashboard is designed to help you understand and analyze vari
    - **Fields Used**: `Invoice Date`, `Revenue` (calculated as `[Quantity] * [Unit Price]`)
 
 
-![Monthly Revenue 2011](https://github.com/user-attachments/assets/3a90d602-fd60-4d40-aceb-c8b400a41e41)
+![Monthly Revenue 2011](https://github.com/user-attachments/assets/08dc5497-c630-419b-8092-78e89a943002)
 
 
 2. **Top 10 Countries by Revenue (excluding UK)**:
@@ -47,4 +48,4 @@ The Sales Analysis Dashboard is designed to help you understand and analyze vari
    - **Filters**: Exclude `United Kingdom`
 
 
-![Units Sold by Country](https://github.com/user-attachments/assets/1b95f2d0-3ca7-4714-9a5f-de6c68817a19)
+![Units Sold by Country](https://github.com/user-attachments/assets/6de0894d-2802-485b-8200-b9231c082406)
