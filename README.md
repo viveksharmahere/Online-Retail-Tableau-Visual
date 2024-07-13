@@ -2,12 +2,13 @@
 
 This Tableau project visualizes key sales metrics to provide comprehensive insights into revenue trends, top-performing countries and customers, and geographic sales distribution.
 
+![Dashboard](https://github.com/user-attachments/assets/a54defeb-6642-40f2-8040-62c36ef378b4)
+
+
 ## Dashboard Overview
 
 The Sales Analysis Dashboard is designed to help you understand and analyze various aspects of sales performance through the following visualizations:
 
-
-![Dashboard](https://github.com/user-attachments/assets/a54defeb-6642-40f2-8040-62c36ef378b4)
 
 
 ## Visualizations
